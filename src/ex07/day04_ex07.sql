@@ -1,0 +1,1 @@
+refresh materialized view mv_dmitriy_visits_and_eats
